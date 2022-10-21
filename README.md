@@ -1,8 +1,5 @@
-# flutter_healthapp
-
-A new Flutter project.
-
-## 27 August 2022
+# Proyek akhir Dicoding
+## Completed on 27 August 2022
 
 This repository is the first project that I developed independently as a newbie to Dart language and Flutter framework
 
